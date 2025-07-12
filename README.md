@@ -12,6 +12,13 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 
 <br>
 
+## 👨‍🎓 Formação
+- Graduação: Engenheiro Eletricista - Universidade Tecnológica Federal do Paraná (UTFPR)
+- Especialização: Egenharia e Gestão de Projetos - Pontifícia Unversidade Católica do Paraná (PUC-PR)
+- MBA: 
+
+<br>
+
 ## 📚 Conhecimentos
 
 - Engenharia de prompt
