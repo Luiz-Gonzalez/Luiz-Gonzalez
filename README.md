@@ -1,5 +1,7 @@
 ## Luiz Gonzalez 👋
 
+![](https://komarev.com/ghpvc/?username=Luiz-Gonzalez)
+
 Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Python ou N8N.
 
 <br>
@@ -75,93 +77,56 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 
 - 🐶 [FliPet](https://fli.pet) — SaaS para gestão completa de negócios para banho e tosa.
 
+<br>
+
+## 📂 Principais Projetos
+Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listadas acima.
+
+<br>
+
+### 🤖 Oráculo (Python — Inteligência Artificial - Langchain/Streamlit)
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 Repositório do projeto: [Oráculo](https://github.com/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 Acesso o projeto na web: [Oráculo](https://streamlit.app/)
+
+ <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**O que faz:**
+ 
+> Uma IA que interage com o usuário, respondendo a dúvidas.
+
+ <br>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;**Problema que resolve:**<br>
+
+ - Problema 1
+ - Problema 2
+ - Problema 3
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Tecnologias utilizadas:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+&nbsp;&nbsp;&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Detalhes:**
+
+- Detalhes
+- Detalhes
+- Detalhes
+- Detalhes
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <p align="center">
-  ✨ Obrigado por visitar meu perfil! Me desafie com um projeto ou ideia. Vamos criar algo incrível juntos! ✨
+  ✨ Obrigado por visitar meu perfil! Me desafie com um projeto ou idéia. Vamos criar algo incrível juntos! ✨
 </p>
-
-
-<!--
----
-💻 Desenvolvedor(a) | 🤖 Apaixonado(a) por IA & Automação | 🚀 Em constante evolução
--
-
-
-
----
-
-## 🧠 Sobre mim
-
-Sou estudante de **[Curso ou Área]**, explorando soluções inteligentes com **Python**, **automação** e **IA aplicada**.  
-Já desenvolvi desde automações simples com Excel/VBA até protótipos de agentes com **LangChain**.  
-Sempre movido(a) por curiosidade e vontade de aprender algo novo!
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,pandas,numpy,vscode,git,github,powerbi,excel" />
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-| 💡 Projeto | 🔎 Descrição | 🧰 Tecnologias |
-|-----------|-------------|----------------|
-| [📧 AutoMailer VBA](https://github.com/SeuUsuario/automailer-vba) | Envio automático de e-mails com base em planilhas Excel | Excel, VBA |
-| [📊 Painel de Vendas Power BI](https://github.com/SeuUsuario/dashboard-powerbi) | Dashboard interativo com métricas de vendas e filtros | Power BI |
-| [🧠 IA com LangChain](https://github.com/SeuUsuario/langchain-agent) | Protótipo de agente com memória e ferramentas | Python, LangChain |
-| [📈 Previsão com Scikit-learn](https://github.com/SeuUsuario/predictive-analytics) | Modelo preditivo com visualização em Streamlit | Python, Streamlit |
-
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🌱 Atualmente estudando
-
-- 🧠 **Machine Learning e LLMs**
-- ⚙️ **APIs com FastAPI**
-- 📊 **Análise de Dados com Python**
-- 🧪 **Testes e boas práticas em projetos**
-
----
-
-## 🤝 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- 📬 Email: seuemail@email.com
-- 🌐 [Portfólio/Site](https://seusite.com)
-
----
-
-
-
-
-
-
-**Luiz-Gonzalez/Luiz-Gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
