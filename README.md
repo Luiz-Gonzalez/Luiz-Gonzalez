@@ -55,7 +55,7 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 
 <br>
 
-### 🏷️ Soft Skills
+## 🏷️ Soft Skills
 
 - 1 💡
 - 2 ✨
@@ -65,7 +65,7 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 
 <br>
 
-### 💬 Idiomas
+## 💬 Idiomas
 
 - 🇧🇷 Português: nativo
 - 🇺🇸 Inglês: fluente
