@@ -84,25 +84,11 @@ Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listada
 
 <br>
 
-### 🤖 Oráculo (Python — Inteligência Artificial - Langchain/Streamlit)
+### 🤖 Oráculo (Inteligência Artificial)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 Repositório do projeto: [Oráculo](https://github.com/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 Acesso o projeto na web: [Oráculo](https://streamlit.app/)
-
- <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**O que faz:**
+<br>
  
 > Uma IA que interage com o usuário, respondendo a dúvidas.
-
- <br>
-
- &nbsp;&nbsp;&nbsp;&nbsp;**Problema que resolve:**<br>
-
- - Problema 1
- - Problema 2
- - Problema 3
 
 <br>
 
@@ -111,6 +97,22 @@ Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listada
 &nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 &nbsp;&nbsp;&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Links:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 Repositório do projeto: [Oráculo](https://github.com/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 Acesso o projeto na web: [Oráculo](https://streamlit.app/)
+
+ <br>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;**Problema que resolve:**<br>
+
+ - Problema 1
+ - Problema 2
+ - Problema 3
 
 <br>
 
