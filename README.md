@@ -24,6 +24,8 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 ## 📚 Conhecimentos
 
 - Engenharia de prompt
+- LangChain
+- Retrieval-Augmented Generation (RAG)
 - Criação de agentes autonomos de IA com Python ou N8N
 - Automações com Python ou N8N
 - Criação de dashboards com Streamlit
