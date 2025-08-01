@@ -75,55 +75,32 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 
 <br>
 
-## 🌟 Projetos em Destaque
-
-- 🐶 [FliPet](https://fli.pet) — SaaS para gestão completa de negócios para banho e tosa.
-
-<br>
 
 ## 📂 Principais Projetos
 Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listadas acima.
 
 <br>
 
-### 🤖 Oráculo (Inteligência Artificial)
+### 🔮 OracleFlow (Artificial Intelligence)
+
+OracleFlow is an intelligent web-based application that leverages open-source large language models (LLMs) to answer user questions based on custom data sources.
+<p>Built with Python and Streamlit, it offers a seamless and intuitive interface to interact with AI models using PDFs, CSVs, text files, websites, and YouTube links as context.</p>
 
 <br>
- 
-> Uma IA que interage com o usuário, respondendo a dúvidas.
+
+***🔗 Links***
+
+&nbsp;&nbsp;&nbsp;&nbsp;Visit the live app: [OracleFlow on Streamlit](https://oracleflow.streamlit.app)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Repositório do projeto: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow)
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Tecnologias utilizadas:**
+**Tech stack:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 &nbsp;&nbsp;&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Links:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 Repositório do projeto: [Oráculo](https://github.com/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 Acesso o projeto na web: [Oráculo](https://streamlit.app/)
-
- <br>
-
- &nbsp;&nbsp;&nbsp;&nbsp;**Problema que resolve:**<br>
-
- - Problema 1
- - Problema 2
- - Problema 3
-
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Detalhes:**
-
-- Detalhes
-- Detalhes
-- Detalhes
-- Detalhes
 
 <br>
 
