@@ -90,17 +90,17 @@ OracleFlow is an intelligent web-based application that leverages open-source la
 
 ***🔗 Links***
 
-&nbsp;&nbsp;&nbsp;&nbsp;Visit the live app: [OracleFlow on Streamlit](https://oracleflow.streamlit.app)
+Visit the live app: [OracleFlow on Streamlit](https://oracleflow.streamlit.app)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Repositório do projeto: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow)
+Project repositorie: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow)
 
 <br>
 
 **Tech stack:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-&nbsp;&nbsp;&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 <br>
 
