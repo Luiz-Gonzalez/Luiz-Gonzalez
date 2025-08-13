@@ -243,6 +243,31 @@ Repositório no GitHub: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow
 
 <br>
 
+### Agentes de inteligência artificial com Python + LangChain
+
+Diversos projetos simples de inteligência artificial desenvolvidos com Python e Langchain
+
+Conceitos utilizados: LCEL, functions, tools, chain, tagging, router, decorator, agents etc
+
+Dentre outros foram desenvolvidos: webscraping na Wikipedia, assistente de envio de e-mails, assistente de previsão do tempo, analisador de receitas.
+
+Repositório em desenvolvimento...
+
+<br>
+
+***🔗 Links***
+
+Repositório no GitHub: [AI Agents](https://github.com/Luiz-Gonzalez/AI-Agents-Python-LangChain)
+
+<br>
+
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
