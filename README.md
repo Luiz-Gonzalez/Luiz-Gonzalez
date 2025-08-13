@@ -117,7 +117,9 @@ Uma área de membros completa para hospedar os cursos online de uma das empresas
 
 Conta com: controle de acesso por curso comprado, data de expiração de acesso para controle, controle de aulas assistidas, etc.
 
-Automação de cadastro do novo aluno nos cursos comprados através de automação entre sistema de pagamento e n8n.
+Cadastro do novo aluno nos cursos comprados através de automação entre sistema de pagamento e n8n.
+
+Envio automático de e-mail com dados de acesso.
 
 <br>
 
