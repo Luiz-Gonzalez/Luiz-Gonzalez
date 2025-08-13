@@ -85,6 +85,8 @@ Envio de mensagens automáticas
 
 Automação do status de assinatura dos clientes por meio dos métodos de pagamento
 
+Integração com o CRM da empresa (ClickUp) através de n8n.
+
 Integração com a API do Facebook para campanhas</p>
 
 <br>
@@ -96,7 +98,10 @@ Conheça: [FliPet](https://fli.pet/sistema-para-banho-e-tosa/)
 <br>
 
 <img src="https://karlamoura.com/wp-content/uploads/2025/07/UX-UI-FliPet-902x2048.jpg" alt="Texto alternativo" width="400">
+<img width="2880" height="1305" alt="image" src="https://github.com/user-attachments/assets/29068a90-edfc-4c2d-b2f7-ab0cc7dd7c5c" />
 
+<br>
+<br>
 
 **Tech stack:**
 
@@ -127,6 +132,8 @@ Conheça: [Meu Cão Companheiro](https://curso.meucaocompanheiro.com/)
 <img src="https://karlamoura.com/wp-content/uploads/2025/08/curso-2048x1176.png" alt="Texto alternativo" width="400">
 <img width="2491" height="1130" alt="image" src="https://github.com/user-attachments/assets/ecfb9e7a-b692-4ff8-9d66-dbeec29b3089" />
 
+<br>
+<br>
 
 **Tech stack:**
 
