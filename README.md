@@ -2,13 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Luiz-Gonzalez)
 
-Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Python ou N8N.
+<p>Desenvolvimento de projetos completos em FlutterFlow + Supabase.</p>
+<p>Automações de processos com n8n ou Python.</p>
+<p>Projetos de <strong>Inteligência Artificial</strong> utilizando Python/LangChain ou N8N.</p>
 
 <br>
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-luizgonzalez2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgonzalez2@gmail.com)
 [![WhatsApp Luiz Gonzalez](https://img.shields.io/badge/WhatsApp-5541997698259-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541997698259)
 
@@ -17,7 +18,7 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 ## 👨‍🎓 Formação
 - Graduação: Engenheiro Eletricista - Universidade Tecnológica Federal do Paraná (UTFPR)
 - Especialização: Egenharia e Gestão de Projetos - Pontifícia Unversidade Católica do Paraná (PUC-PR)
-- MBA: 
+- MBA: Gestão Empresarial (FACET)
 
 <br>
 
@@ -53,17 +54,6 @@ Desenvolvo projetos inovadores usando **Inteligência Artificial** utilizando Py
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-<br>
-
-## 🏷️ Soft Skills
-
-- 1 💡
-- 2 ✨
-- 3 🚀
-- 4 💜
-- 5 👀
 
 <br>
 
