@@ -151,6 +151,7 @@ Envio de mensagens para os assinantes de acordo com a mudança de status do cont
 <img width="2875" height="1247" alt="image" src="https://github.com/user-attachments/assets/a9fbd256-f947-4016-bd3f-b2ba63350f41" />
 
 <br>
+<br>
 
 **Tech stack:**
 
@@ -173,6 +174,34 @@ Envio de mensagens no WhatsApp para sistema de login em site através de OTP (On
 
 <img width="2447" height="1206" alt="image" src="https://github.com/user-attachments/assets/2b2ddc47-dd22-4ad5-bd64-edff648c9354" />
 
+<br>
+<br>
+
+**Tech stack:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=flat&logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+
+<br>
+
+### n8n - SDR Simples com Inteligência Artificial
+
+Sistema de inteligência artificial para atendimento inicial através do WhatsApp utilizanod n8n + Supabase + OpenAI + Google Gemini.
+
+O sistema recebe as mensagens no WhatsApp e a inteligência artificial responde o cliente.
+
+Utiliza RAG para armazenamento das informações da empresa e também para a inteligência artificial utilizar para dar respostas precisas.
+
+Banco de dados vetorial no Supabase.
+
+Consegue interpretar texto e áudio.
+
+<br>
+
+<img width="2835" height="1257" alt="image" src="https://github.com/user-attachments/assets/bc05c619-6838-448a-87e6-da6dcb74344e" />
+
+<br>
 <br>
 
 **Tech stack:**
