@@ -268,6 +268,45 @@ Repositório no GitHub: [AI Agents](https://github.com/Luiz-Gonzalez/AI-Agents-P
 
 <br>
 
+### Fifa Dash - Webapp com Python e Streamlit
+
+Este projeto é uma aplicação web interativa desenvolvida em Python e Streamlit para visualizar dados oficiais de jogadores da FIFA de 2023, obtidos do FIFA 23 Official Dataset no Kaggle.
+
+Por meio de uma interface limpa e responsiva, os usuários podem explorar informações detalhadas dos jogadores, como fotos, valor de contrato, estatísticas físicas, entre outros.
+
+🚀 **Principais Funcionalidades**
+
+Página Inicial: Breve introdução e contexto do conjunto de dados.
+
+Visualização de Jogador: Filtre por clube ou jogador para explorar estatísticas e visuais individuais.
+
+Visualização em Tabela: Resumo tabular com nome, idade, foto, valor de mercado e clube.
+
+Análise de Dados: Navegue e analise os dados de jogadores da FIFA ao longo de vários anos.
+
+🔒 **Destaques Técnicos**
+
+Performance Otimizada: Cache inteligente reduz o tempo de recarregamento dos dados e melhora a responsividade.
+
+Controle de Acesso: O fluxo de navegação garante que os usuários iniciem pela página inicial antes de acessar outras seções.
+
+<br>
+
+***🔗 Links***
+
+Veja online: [Fifa Dash](https://fifa-dash-app.streamlit.app/)
+
+Repositório no GitHub: [Fifa Dash](https://github.com/Luiz-Gonzalez/Fifa-Dash-Streamlit-Python)
+
+<br>
+
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
