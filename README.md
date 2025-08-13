@@ -71,6 +71,41 @@ Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listada
 
 <br>
 
+### 🔮 FliPet - Sistema para Gestão de Negócios de Banho e Tosa (SaaS)
+
+Um sistema completo para negócios de banho e tosa, com versão para proprietários e versão de agendamento para clientes.
+
+Disponível nas versões web e mobile.
+
+Aproximadamente 130 telas/componentes desenvolvidos no FlutterFlow e 50 tabelas/views no Supabase, além de diversas funções.
+
+Também realizei toda a configuração de automações no N8N para:
+
+Envio de mensagens automáticas
+
+Automação do status de assinatura dos clientes por meio dos métodos de pagamento
+
+Integração com a API do Facebook para campanhas</p>
+
+<br>
+
+***🔗 Links***
+
+Conheça: [FliPet](https://fli.pet/sistema-para-banho-e-tosa/)
+
+<br>
+
+<img src="https://karlamoura.com/wp-content/uploads/2025/07/UX-UI-FliPet-902x2048.jpg" alt="Texto alternativo" width="400">
+
+
+**Tech stack:**
+
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0258E9?style=flat&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=flat&logo=n8n&logoColor=white)
+
+<br>
+
 ### 🔮 OracleFlow (Artificial Intelligence)
 
 OracleFlow is an intelligent web-based application that leverages open-source large language models (LLMs) to answer user questions based on custom data sources.
