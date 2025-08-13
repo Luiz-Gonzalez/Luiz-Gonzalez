@@ -75,6 +75,8 @@ Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listada
 
 Um sistema completo para negócios de banho e tosa, com versão para proprietários e versão de agendamento para clientes.
 
+Sistema complexo e moderno de agendamento de horários com diversas configurações e requisitos que podem ser configurados.
+
 Disponível nas versões web e mobile.
 
 Aproximadamente 130 telas/componentes desenvolvidos no FlutterFlow e 50 tabelas/views no Supabase, além de diversas funções.
