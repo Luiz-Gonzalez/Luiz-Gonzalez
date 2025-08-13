@@ -71,7 +71,7 @@ Projetos desenvolvidos por mim utilizando os conhecimentos e habilidades listada
 
 <br>
 
-### 🔮 FliPet - Sistema para Gestão de Negócios de Banho e Tosa (SaaS)
+### FliPet - Sistema para Gestão de Negócios de Banho e Tosa (SaaS)
 
 Um sistema completo para negócios de banho e tosa, com versão para proprietários e versão de agendamento para clientes.
 
@@ -106,7 +106,7 @@ Conheça: [FliPet](https://fli.pet/sistema-para-banho-e-tosa/)
 
 <br>
 
-### 🔮 Meu Cão Companheiro - Cursos Online (Área de Membros)
+### Meu Cão Companheiro - Cursos Online (Área de Membros)
 
 Uma área de membros completa para hospedar os cursos online de uma das empresas mais tradicionais em adestramento do Brasil.
 
@@ -125,12 +125,61 @@ Conheça: [Meu Cão Companheiro](https://curso.meucaocompanheiro.com/)
 <img src="https://karlamoura.com/wp-content/uploads/2025/08/login.app_-2048x1176.png" alt="Texto alternativo" width="400">
 <img src="https://karlamoura.com/wp-content/uploads/2025/08/home-2048x1176.png" alt="Texto alternativo" width="400">
 <img src="https://karlamoura.com/wp-content/uploads/2025/08/curso-2048x1176.png" alt="Texto alternativo" width="400">
+<img width="2491" height="1130" alt="image" src="https://github.com/user-attachments/assets/ecfb9e7a-b692-4ff8-9d66-dbeec29b3089" />
+
 
 **Tech stack:**
 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0258E9?style=flat&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=flat&logo=n8n&logoColor=white)
+
+<br>
+
+### n8n - Automação de Pagamentos
+
+Automação completa de um sistema de assinanturas utilizando n8n + Supabase + Eduzz.
+
+Novos contratos, pagamentos recorrêntes, assinaturas atrasadas, assinaturas canceladas, etc
+
+Totalmente integrado ao banco de dados do Supabase para ter os dados dos assinantes.
+
+Envio de mensagens para os assinantes de acordo com a mudança de status do contrato (Nova assinatura, atrasado, etc)
+
+<br>
+
+<img width="2875" height="1247" alt="image" src="https://github.com/user-attachments/assets/a9fbd256-f947-4016-bd3f-b2ba63350f41" />
+
+<br>
+
+**Tech stack:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=flat&logo=n8n&logoColor=white)
+
+<br>
+
+### n8n - Automação de envio de mensagens por WhatsApp
+
+Automação completa de um sistema de envio de mensagens para um sistema de agendamentos utilizanod n8n + Supabase + JavaScript.
+
+Mensagens no WhatsApp do cliente conforme o status do agendamento: novo agendamento, cancelamento, lembrete com 1h ou 24h de antecedência, serviço concluído, envio de imagem do serviço concluído.
+
+Sistema inteligente através de código JavaScript com rotação de instância de número de WhatsApp para evitar bloqueio.
+
+Envio de mensagens no WhatsApp para sistema de login em site através de OTP (One Time Password)
+
+<br>
+
+<img width="2447" height="1206" alt="image" src="https://github.com/user-attachments/assets/2b2ddc47-dd22-4ad5-bd64-edff648c9354" />
+
+<br>
+
+**Tech stack:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=flat&logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
 
 <br>
 
