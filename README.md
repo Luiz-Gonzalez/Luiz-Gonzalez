@@ -147,7 +147,7 @@ Conheça: [Meu Cão Companheiro](https://curso.meucaocompanheiro.com/)
 
 Automação completa de um sistema de assinanturas utilizando n8n + Supabase + Eduzz.
 
-Novos contratos, pagamentos recorrêntes, assinaturas atrasadas, assinaturas canceladas, etc
+Novos contratos, pagamentos recorrentes, assinaturas atrasadas, assinaturas canceladas, etc
 
 Totalmente integrado ao banco de dados do Supabase para ter os dados dos assinantes.
 
@@ -221,16 +221,17 @@ Consegue interpretar texto e áudio.
 
 ### 🔮 OracleFlow (Artificial Intelligence)
 
-OracleFlow is an intelligent web-based application that leverages open-source large language models (LLMs) to answer user questions based on custom data sources.
-<p>Built with Python and Streamlit, it offers a seamless and intuitive interface to interact with AI models using PDFs, CSVs, text files, websites, and YouTube links as context.</p>
+O OracleFlow é uma aplicação inteligente baseada na web que utiliza modelos de linguagem de grande porte (LLMs) de código aberto para responder a perguntas dos usuários com base em fontes de dados personalizadas.
+
+<p>Desenvolvido em Python e Streamlit, oferece uma interface intuitiva e fluida para interagir com modelos de IA usando PDFs, arquivos CSV, arquivos de texto, sites e links do YouTube como contexto.</p>
 
 <br>
 
 ***🔗 Links***
 
-Visit the live app: [OracleFlow on Streamlit](https://oracleflow.streamlit.app)
+Conheça: [OracleFlow on Streamlit](https://oracleflow.streamlit.app)
 
-Project repositorie: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow)
+Repositório no GitHub: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow)
 
 <br>
 
