@@ -106,6 +106,34 @@ Conheça: [FliPet](https://fli.pet/sistema-para-banho-e-tosa/)
 
 <br>
 
+### 🔮 Meu Cão Companheiro - Cursos Online (Área de Membros)
+
+Uma área de membros completa para hospedar os cursos online de uma das empresas mais tradicionais em adestramento do Brasil.
+
+Conta com: controle de acesso por curso comprado, data de expiração de acesso para controle, controle de aulas assistidas, etc.
+
+Automação de cadastro do novo aluno nos cursos comprados através de automação entre sistema de pagamento e n8n.
+
+<br>
+
+***🔗 Links***
+
+Conheça: [Meu Cão Companheiro](https://curso.meucaocompanheiro.com/)
+
+<br>
+
+<img src="https://karlamoura.com/wp-content/uploads/2025/08/login.app_-2048x1176.png" alt="Texto alternativo" width="400">
+<img src="https://karlamoura.com/wp-content/uploads/2025/08/home-2048x1176.png" alt="Texto alternativo" width="400">
+<img src="https://karlamoura.com/wp-content/uploads/2025/08/curso-2048x1176.png" alt="Texto alternativo" width="400">
+
+**Tech stack:**
+
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0258E9?style=flat&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4E9D?style=flat&logo=n8n&logoColor=white)
+
+<br>
+
 ### 🔮 OracleFlow (Artificial Intelligence)
 
 OracleFlow is an intelligent web-based application that leverages open-source large language models (LLMs) to answer user questions based on custom data sources.
