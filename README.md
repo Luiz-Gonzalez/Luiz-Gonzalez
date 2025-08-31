@@ -272,6 +272,33 @@ Repositório no GitHub: [AI Agents](https://github.com/Luiz-Gonzalez/AI-Agents-P
 
 <br>
 
+## Data Analyzer With AI
+
+Voice-based agent for **data analysis** using **Python, LangChain, Whisper, and OpenAI APIs**.  
+This project lets you ask questions by voice, transcribe them to text, process them with a Large Language Model (LLM), and receive spoken answers based on your dataset.
+
+<br>
+
+## Features
+
+1. Voice input controlled by a hotkey  
+2. Speech-to-Text transcription with Whisper  
+3. AI-powered data analysis with Pandas DataFrame  
+4. Spoken response using OpenAI Text-to-Speech
+
+<br>
+
+***🔗 Links***
+
+GitHub repositorie: [Voice-based agent for data analysis](https://github.com/Luiz-Gonzalez/Data-Analyzer-With-AI)
+
+<br>
+
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+
 ### Fifa Dash - Webapp com Python e Streamlit
 
 Este projeto é uma aplicação web interativa desenvolvida em Python e Streamlit para visualizar dados oficiais de jogadores da FIFA de 2023, obtidos do FIFA 23 Official Dataset no Kaggle.
