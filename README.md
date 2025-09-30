@@ -297,7 +297,7 @@ This project automates the full content creation workflow — from keyword analy
 
 ***🔗 Links***
 
-GitHub repositorie: [AI Blog Article Writer](https://github.com/Luiz-Gonzalez/AI-Blog-Article-Writer)
+GitHub repositorie: [AI Blog Article Writer](https://github.com/Luiz-Gonzalez/AI_Blog_Article_Writer)
 
 <br>
 
