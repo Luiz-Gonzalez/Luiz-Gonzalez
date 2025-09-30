@@ -223,6 +223,38 @@ Consegue interpretar texto e áudio.
 
 <br>
 
+## Nutritionist AI on Telegram
+
+AI-powered **personal nutritionist bot** on **Telegram**, built with **Python, LangChain, and OpenAI APIs**.  
+This project lets users chat naturally with an AI that can analyze food images, generate personalized diet plans, track meals and weight, and provide progress reports — all through a conversational interface.
+
+<br>
+
+## Features
+
+1. Conversational interface with natural language support  
+2. Food image analysis with ingredient and nutrition estimation  
+3. Personalized diet plans based on goals and restrictions  
+4. Progress tracking with meal logging and weight updates  
+5. User management with registration and data storage  
+
+<br>
+
+***🔗 Links***
+
+GitHub repositorie: [Nutritionist AI on Telegram](https://github.com/Luiz-Gonzalez/Nutritionist-AI-on-Telegram)
+
+<br>
+
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+
+<br>
+
 ### 🔮 OracleFlow (Artificial Intelligence)
 
 O OracleFlow é uma aplicação inteligente baseada na web que utiliza modelos de linguagem de grande porte (LLMs) de código aberto para responder a perguntas dos usuários com base em fontes de dados personalizadas.
