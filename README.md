@@ -279,6 +279,39 @@ Repositório no GitHub: [OracleFlow](https://github.com/Luiz-Gonzalez/OracleFlow
 
 <br>
 
+## AI Blog Article Writer
+
+AI-powered agent for **SEO-optimized blog writing** using **Python, LangChain, Deep Agents, and Sub-Agents**.  
+This project automates the full content creation workflow — from keyword analysis and competitor research to structured drafting and final article generation.
+
+<br>
+
+## Features
+
+1. Keyword analysis and competitor research  
+2. Automatic topic extraction and structure organization  
+3. SEO-optimized blog article generation  
+4. Word count validation and optional review with feedback agents  
+
+<br>
+
+***🔗 Links***
+
+GitHub repositorie: [AI Blog Article Writer](https://github.com/Luiz-Gonzalez/AI-Blog-Article-Writer)
+
+<br>
+
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat&logo=langchain&logoColor=white)
+![Deep Agents](https://img.shields.io/badge/Deep%20Agents-000000?style=flat)
+![Sub-Agents](https://img.shields.io/badge/Sub--Agents-333333?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![Google Search API](https://img.shields.io/badge/Google%20Search%20API-4285F4?style=flat&logo=google&logoColor=white)
+
+<br>
+
 ### Agentes de inteligência artificial com Python + LangChain
 
 Diversos projetos simples de inteligência artificial desenvolvidos com Python e Langchain
